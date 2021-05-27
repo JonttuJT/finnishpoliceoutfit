@@ -1,5 +1,5 @@
-# Suomen poliisi asu
-Suomen poliisi asu gta v:hen
+# Finnish police outfit
+Finnish police outfit for fivem or gta v.
 
 
 
